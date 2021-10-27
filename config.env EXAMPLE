@@ -6,3 +6,4 @@ DATABASE_PASSWORD=db_password
 
 JWT_SECRET=my-ultra-secure-secret
 JWT_EXPIRES_IN=30d
+JWT_COOKIE_EXPIRES_IN=15
